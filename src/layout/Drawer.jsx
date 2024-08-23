@@ -20,6 +20,7 @@ import InboxIcon from '@mui/icons-material/MoveToInbox';
 import MailIcon from '@mui/icons-material/Mail';
 import { Button } from '@mui/material';
 import { useHistory } from 'react-router-dom';
+import { useHistory } from 'react-router-dom';
 
 const drawerWidth = 240;
 
